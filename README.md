@@ -1,7 +1,7 @@
 ## Build
 
 ```bash
-git clone https://github.com/<твой_ник>/ParserOpenFlight.git
+git clone https://github.com/GiperB0la/ParserOpenFlight.git
 cd ParserOpenFlight
 
 cmake -B build -S .
