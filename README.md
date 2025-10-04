@@ -6,4 +6,6 @@ cd ParserOpenFlight
 
 cmake -B build -S .
 cmake --build build
+
+./build/ParserOpenFlight [path]
 ```
